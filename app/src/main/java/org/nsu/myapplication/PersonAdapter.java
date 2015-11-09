@@ -34,7 +34,7 @@ public class PersonAdapter extends ArrayAdapter<PersonItem> {
         nameTextView.setText(personItem.name);
         nickTextView.setText(personItem.nickName);
         imageView.setImageResource(personItem.imageResId);
-        deptView.setText(personItem.dept);
+        //deptView.setText(personItem.dept);
         return view;
     }
 }

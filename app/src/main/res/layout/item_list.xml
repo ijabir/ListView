@@ -28,13 +28,5 @@
             android:textSize="30sp"
             android:id="@+id/item_nick" />
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="dept"
-            android:layout_marginLeft="10dp"
-            android:textSize="30sp"
-            android:id="@+id/item_dept"/>
-
     </LinearLayout>
 </LinearLayout>
