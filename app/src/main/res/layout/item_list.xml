@@ -29,4 +29,6 @@
             android:id="@+id/item_nick" />
 
     </LinearLayout>
+
+
 </LinearLayout>
